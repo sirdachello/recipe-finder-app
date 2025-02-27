@@ -41,8 +41,13 @@ This application is built with the following technologies:
 1. Clone the repository:
 
    git clone https://github.com/sirdachello/recipe-finder-app.git
-   cd recipe-finder-app
+   
+3. Switch to the project folder:
 
+   cd recipe-finder-app
+   
+5. Install dependencies:
+   
    npm install
 
 ## Running the App
